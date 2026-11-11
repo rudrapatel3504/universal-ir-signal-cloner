@@ -1,0 +1,19 @@
+# Compiled binaries
+*.hex
+*.elf
+*.bin
+
+# Build folders
+build/
+*.o
+*.d
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Core files
+*.orig
