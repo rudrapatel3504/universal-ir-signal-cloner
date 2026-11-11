@@ -9,13 +9,6 @@ A standalone infrared remote-control cloner running on an **ATmega2560** microco
 
 ---
 
-## Demo
-
-![demo](media/demo.gif)
-> *Placeholder: Add a demo GIF or high-resolution hardware photo into `media/demo.gif` showing the LCD output during capture, replay, and verification.*
-
----
-
 ## Overview
 
 Most consumer IR remote controls operate using proprietary or standard protocols (NEC, Sony, RC5/6, Samsung) modulated at a 38 kHz carrier frequency. Universal learning remotes typically require knowing the decoding protocol.
